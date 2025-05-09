@@ -1,0 +1,10 @@
+{
+    "name": "Gold Medal",
+    "description": "A prestigious GOLD NFT token.",
+    "image": "https://raw.githubusercontent.com/samkoh-gambit/simple-erc1155/main/images/1.png",
+    "attributes": [
+      { "trait_type": "Tier", "value": "Gold" },
+      { "trait_type": "Rarity", "value": "Best" }
+    ]
+  }
+  

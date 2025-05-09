@@ -1,0 +1,10 @@
+{
+    "name": "Bronze Medal",
+    "description": "A solid BRONZE NFT token.",
+    "image": "https://raw.githubusercontent.com/samkoh-gambit/simple-erc1155/main/images/3.png",
+    "attributes": [
+      { "trait_type": "Tier", "value": "Bronze" },
+      { "trait_type": "Rarity", "value": "Good Job" }
+    ]
+  }
+  

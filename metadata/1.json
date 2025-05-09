@@ -1,0 +1,10 @@
+{
+    "name": "Silver Medal",
+    "description": "A distinguished SILVER NFT token.",
+    "image": "https://raw.githubusercontent.com/samkoh-gambit/simple-erc1155/main/images/2.png",
+    "attributes": [
+      { "trait_type": "Tier", "value": "Silver" },
+      { "trait_type": "Rarity", "value": "Nice" }
+    ]
+  }
+  
